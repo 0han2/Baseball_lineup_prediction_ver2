@@ -1,4 +1,4 @@
-# python -m streamlit run "C:\python\퍼팩트게임_ver2\app_10구단_작업중.py"
+# python -m streamlit run "C:\python\퍼팩트게임_ver2\kbo_team_app.py"
 
 import streamlit as st
 import pandas as pd
